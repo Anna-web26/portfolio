@@ -76,8 +76,8 @@ line-height: 42px;
   text-transform: uppercase;
 }
 .hero-avatar {
-  width: 389px;
-  height: 389px;
+  width: 500px;
+  height: 500px;
   background-color: #fff;
   border-radius: 50%;
   background-image: url('../img/ava.jpg');
@@ -236,13 +236,13 @@ line-height: 28px;
 }
 .input-name {
   margin-bottom: 17px;
-  background-image: url(/img/user-icon.svg);
+  background-image: url(../img/user-icon.svg);
   background-repeat: no-repeat;
   background-position: center left 20px;
 }
 .input-phone {
   margin-bottom: 17px;
-  background-image: url(/img/phone-icon.svg);
+  background-image: url(../img/phone-icon.svg);
   background-repeat: no-repeat;
   background-position: center left 20px;
 }
@@ -303,8 +303,8 @@ margin-top: 72px;
 /* responsive */
 @media (max-width: 1100px) {
   .hero-avatar {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     border-width: 10px;
   }
 }
@@ -315,8 +315,8 @@ flex-direction: column;
   }
   .hero-avatar {
     order: 0;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     border-width: 10px;
     margin-bottom: 17px;
   }
@@ -351,8 +351,8 @@ line-height: 27px;
 margin-bottom: 5px;
   }
   .hero-avatar {
-    width: 113px;
-    height: 113px;
+    width: 250px;
+    height: 250px;
     background-origin: 4px;
     background-position: center top;
   
